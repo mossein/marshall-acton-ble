@@ -1,0 +1,8 @@
+# Built app bundles (regenerate with ./build.sh)
+*.app/
+# Runtime logs
+*.log
+# Python scan venv (optional helper only)
+ble/
+__pycache__/
+.DS_Store
